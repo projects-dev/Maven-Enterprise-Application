@@ -6,7 +6,7 @@
   <packaging>pom</packaging>
   <version>1.0</version>
   <name> Maven Enterprise Application</name>
-  <url>used to change</url>
+  <url>http://ec2-13-233-250-213.ap-south-1.compute.amazonaws.com:9000/</url>
   <modules>
     <module>MavenEnterpriseApp-ear</module>
     <module>MavenEnterpriseApp-web</module>
