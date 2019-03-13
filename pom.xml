@@ -6,13 +6,13 @@
   <packaging>pom</packaging>
   <version>1.0</version>
   <name> Maven Enterprise Application</name>
-  <url>http://ec2-13-233-250-213.ap-south-1.compute.amazonaws.com:9000</url>
+  <url>http://ec2-13-233-245-137.ap-south-1.compute.amazonaws.com:9000/</url>
   <modules>
     <module>MavenEnterpriseApp-ear</module>
     <module>MavenEnterpriseApp-web</module>
   </modules>
   
-	<!-- <distributionManagement>
+  <!--	<distributionManagement>
 	    <repository>
 	      <id>releases</id>
 	      <name>releases</name>
@@ -23,6 +23,6 @@
 	      <name>snapshots</name>
 	      <url>http://localhost:8081/repository/volvo-snapshot/</url>
 	    </snapshotRepository>
-	</distributionManagement> -->
+	</distributionManagement>    -->
 	
 </project>
