@@ -12,7 +12,7 @@
     <module>MavenEnterpriseApp-web</module>
   </modules>
   
-	<distributionManagement>
+	<!-- <distributionManagement>
 	    <repository>
 	      <id>releases</id>
 	      <name>releases</name>
@@ -23,6 +23,6 @@
 	      <name>snapshots</name>
 	      <url>http://localhost:8081/repository/volvo-snapshot/</url>
 	    </snapshotRepository>
-	</distributionManagement>
+	</distributionManagement> -->
 	
 </project>
