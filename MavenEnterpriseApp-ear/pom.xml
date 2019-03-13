@@ -11,7 +11,7 @@
   <packaging>ear</packaging>
   <version>1.0</version>
   <name>MavenEnterpriseApp-ear JavaEE6 Assembly</name>
-  <url>http://maven.apache.org</url>
+  <url>http://ec2-52-66-207-28.ap-south-1.compute.amazonaws.com:9000/</url>
 
   <build>
     <finalName>MavenEnterpriseApp-ear</finalName>
@@ -25,7 +25,7 @@
         </dependency>
     </dependencies>
 	
-	<distributionManagement>
+<!--	<distributionManagement>
 	    <repository>
 	      <id>releases</id>
 	      <name>releases</name>
@@ -36,7 +36,7 @@
 	      <name>snapshots</name>
 	      <url>http://localhost:8081/repository/volvo-snapshot/</url>
 	    </snapshotRepository>
-	</distributionManagement> 
+	</distributionManagement> --> 
 
 </project>
 
